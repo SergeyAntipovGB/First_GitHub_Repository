@@ -8,3 +8,10 @@
 Загружаем последнюю версию Git с сайта https://git-scm.com/downloads.
 Устанавливаем с настройками по умолчанию
 
+## 3. Настройка Git
+В первую очередь необходимо ввести свои данные в Git: имя и адрес e-mail с помощью команд
+
+`git config --global user.name "имя"`
+
+`git config --global user.email адрес e-mail`
+
