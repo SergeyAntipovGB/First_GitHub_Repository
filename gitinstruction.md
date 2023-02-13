@@ -13,7 +13,7 @@
 
 `git config --global user.name "имя"`
 
-`git config --global user.email адрес e-mail`
+`git config --global user.email "адрес e-mail"`
 
 ## 4. Работа в Git
 ### 4.1 Создание репозитория
